@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Sunset",
+    "picture": "https://i.pinimg.com/236x/1c/f5/c0/1cf5c04aad1c3e0727386beaf37cac0b.jpg",
+    "price": 10
+  },
+  {
+    "name": "Pancakes",
+    "picture": "https://i.pinimg.com/236x/9b/44/58/9b4458db7c34fbfadcdb895b6f2b005c.jpg",
+    "price": 12
+  },
+  {
+    "name": "Cat in sun",
+    "picture": "https://i.pinimg.com/236x/d4/df/b4/d4dfb44ac91572a377f967d6fe5fc897.jpg",
+    "price": 7
+  },
+  {
+    "name": "Tokyo Evening",
+    "picture": "https://i.pinimg.com/564x/13/e7/55/13e75517a248110060ae8a4fc9669154.jpg",
+    "price": 9
+  },
+  {
+    "name": "Tokyo Center",
+    "picture": "https://i.pinimg.com/564x/46/60/34/466034d11504352c5e1e8303f37a8e77.jpg",
+    "price": 10
+  },
+  {
+    "name": "Sakura",
+    "picture": "https://i.pinimg.com/236x/6a/fb/b7/6afbb76c57c02d77f904ff9c0ed7f188.jpg",
+    "price": 8
+  },
+  {
+    "name": "Purple City",
+    "picture": "https://i.pinimg.com/236x/79/2d/80/792d80cc2eb1b5700932c9e52df9f857.jpg",
+    "price": 11
+  },
+  {
+    "name": "White Blossom",
+    "picture": "https://i.pinimg.com/236x/aa/ea/da/aaeada3004a9e3a84683307b1b653d9f.jpg",
+    "price": 16
+  },
+  {
+    "name": "Anime Screen",
+    "picture": "https://i.pinimg.com/236x/17/35/b3/1735b32e4f6c7a6a916afc26fd7ace61.jpg",
+    "price": 12
+  },
+  {
+    "name": "Raining City",
+    "picture": "https://i.pinimg.com/236x/e3/01/23/e30123cbb5ead9350a94905035b6f392.jpg",
+    "price": 13
+  },
+  {
+    "name": "Olifant Mario",
+    "picture": "https://cdn.nwtv.nl/wp-content/uploads/2023/06/Super-Mario-Bros.-Wonder.jpeg",
+    "price": 15
+  }
+]
