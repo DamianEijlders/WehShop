@@ -59,8 +59,6 @@ Feel free to customize the code as per your requirements and design preferences.
 
 ## **Additional Information**
 
-Certification: You can choose whether to pursue the certificate with or without credits.
-
 Project Details: This code snippet provides a basic implementation of a product listing and shopping cart functionality. It can be used as a starting point for larger e-commerce projects.
 
 Online Presence: The project is currently not available online. You can integrate the code into your own project or use it as a reference.
