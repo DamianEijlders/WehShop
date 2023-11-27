@@ -64,3 +64,9 @@ Project Details: This code snippet provides a basic implementation of a product 
 Online Presence: The project is currently not available online. You can integrate the code into your own project or use it as a reference.
 
 Local Setup: To run the project locally, follow the usage instructions mentioned above. Ensure that you have the required files (JavaScript code, JSON data) and dependencies in place. Open your HTML file in a web browser to see the project in action.
+
+## **Screenshots**
+![Screenshot](./Images/Webshop%20Homepage.png)
+![Screenshot](./Images/Webshop%20Shoppingcart.png)
+![Screenshot](./Images/Webshop%20Orderlist.png)
+![Screenshot](./Images/Webshop%20Adminpanel.png)
